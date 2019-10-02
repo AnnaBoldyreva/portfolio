@@ -1,5 +1,53 @@
 .skills {
-height: 100vh;
+  height: 100vh;
   background-color: lightcoral;
+  display: flex;
+  justify-content: center;
 }
 
+.container {
+  width: 80%;
+  border: 2px solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+
+.firstSkill{
+  background-color: #59b2ab;
+  height: 450px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.secondSkill{
+  background-color: #59b2ab;
+  height: 450px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.thirdSkill{
+  background-color: #59b2ab;
+  height: 450px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+
+.imgLogo{
+  height: 200px;
+  width: 300px;
+}
