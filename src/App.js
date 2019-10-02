@@ -4,6 +4,7 @@ import Header from "./Header";
 import Greeting from "./Greeting";
 import Skills from "./Skills";
 import Works from "./Works";
+import Offer from "./Offer";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <Greeting/>
         <Skills/>
         <Works/>
+        <Offer/>
 
       </div>
 
