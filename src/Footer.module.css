@@ -1,5 +1,19 @@
 .footer {
-height: 250px;
+   height: 250px;
    background-color: #b29db2;
+   display: flex;
+   justify-content: center;
 }
 
+.container {
+   width: 80%;
+   border: 2px solid;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-around;
+   align-items: center;
+}
+
+ .copyright {
+   align-self: center;
+}
