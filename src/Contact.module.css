@@ -1,5 +1,42 @@
 .contact {
-height: 100vh;
+   height: 100vh;
    background-color: #99a2b2;
+   display: flex;
+   justify-content: center;
 }
 
+.container{
+   width: 80%;
+   border: 2px solid;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.contactInfo{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+input{
+   width: 500px;
+   height: 30px;
+   margin-bottom: 10px;
+}
+
+textarea{
+   width: 500px;
+   height: 100px;
+}
+
+span{
+   margin-bottom: 10px;
+}
+button {
+   width: 200px;
+   height: 30px;
+   margin: 10px;
+}
