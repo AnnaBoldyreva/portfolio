@@ -3,10 +3,11 @@ import './App.css';
 import Header from "./Header";
 import Greeting from "./Greeting";
 import Skills from "./Skills";
-import Works from "./Works";
+
 import Offer from "./Offer";
 import Contact from "./Contact";
 import Footer from "./Footer";
+import Projects from "./Projects";
 
 function App() {
   return (
@@ -15,7 +16,7 @@ function App() {
         <Header/>
         <Greeting/>
         <Skills/>
-        <Works/>
+        <Projects/>
         <Offer/>
         <Contact/>
         <Footer/>
