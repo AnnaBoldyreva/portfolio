@@ -11,6 +11,7 @@ function Projects() {
           <span>Description</span>
           <button className={styles.viewButton}>View</button>
 
+
         </div>
         <div className={styles.secondProject}>
           <img className={styles.imgProject} src="https://marketingweek.imgix.net/content/uploads/2017/05/12103909/Coding-body-image-.jpg?auto=compress,format&q=60&w=750&h=460" alt="coding"/>
