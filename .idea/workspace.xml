@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f927b5-47c8-47d6-8659-b101be847299" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greeting.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +68,11 @@
       <option name="presentableId" value="Default" />
       <updated>1569999461049</updated>
       <workItem from="1569999463171" duration="288000" />
-      <workItem from="1570004788710" duration="1427000" />
+      <workItem from="1570004788710" duration="7697000" />
+      <workItem from="1570018658905" duration="8263000" />
+      <workItem from="1570784217391" duration="42000" />
+      <workItem from="1570980194620" duration="1004000" />
+      <workItem from="1571401421994" duration="1240000" />
     </task>
     <task id="LOCAL-00001" summary="create component Header">
       <created>1570005637571</created>
@@ -92,7 +95,98 @@
       <option name="project" value="LOCAL" />
       <updated>1570006197355</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="create new components Offer">
+      <created>1570006311282</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570006311282</updated>
+    </task>
+    <task id="LOCAL-00005" summary="create new components Contact">
+      <created>1570006476775</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1570006476775</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create new components Footer">
+      <created>1570006616108</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1570006616108</updated>
+    </task>
+    <task id="LOCAL-00007" summary="recreate component Works to projects &amp; change height with vh">
+      <created>1570007683004</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1570007683004</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add component Navigation with flex-box styles and with 4 link divs">
+      <created>1570012309622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1570012309622</updated>
+    </task>
+    <task id="LOCAL-00009" summary="styled Greeting by flex-box">
+      <created>1570013777316</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1570013777316</updated>
+    </task>
+    <task id="LOCAL-00010" summary="create Skills.module.css by flexbox">
+      <created>1570021599298</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1570021599298</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add flexbox styles to component Project">
+      <created>1570023462867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1570023462867</updated>
+    </task>
+    <task id="LOCAL-00012" summary="add flexbox styles for Offer Component">
+      <created>1570024732445</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1570024732445</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add flexbox styles for Contact component">
+      <created>1570026182873</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1570026182873</updated>
+    </task>
+    <task id="LOCAL-00014" summary="add flexbox styles for Footer component">
+      <created>1570026954582</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1570026954582</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix styles">
+      <created>1571401934994</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1571401934994</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fix styles(2)">
+      <created>1571402409974</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571402409974</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +209,19 @@
     <MESSAGE value="create component Header" />
     <MESSAGE value="create two new components Greeting and skills" />
     <MESSAGE value="create new components Works" />
-    <option name="LAST_COMMIT_MESSAGE" value="create new components Works" />
+    <MESSAGE value="create new components Offer" />
+    <MESSAGE value="create new components Contact" />
+    <MESSAGE value="create new components Footer" />
+    <MESSAGE value="recreate component Works to projects &amp; change height with vh" />
+    <MESSAGE value="add component Navigation with flex-box styles and with 4 link divs" />
+    <MESSAGE value="styled Greeting by flex-box" />
+    <MESSAGE value="create Skills.module.css by flexbox" />
+    <MESSAGE value="add flexbox styles to component Project" />
+    <MESSAGE value="add flexbox styles for Offer Component" />
+    <MESSAGE value="add flexbox styles for Contact component" />
+    <MESSAGE value="add flexbox styles for Footer component" />
+    <MESSAGE value="fix styles" />
+    <MESSAGE value="fix styles(2)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix styles(2)" />
   </component>
 </project>
