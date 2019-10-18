@@ -1,5 +1,5 @@
 .contact {
-   height: 100vh;
+   min-height: 100vh;
    background-color: #99a2b2;
    display: flex;
    justify-content: center;
@@ -10,8 +10,9 @@
    border: 2px solid;
    display: flex;
    flex-direction: column;
-   justify-content: center;
+   justify-content: space-around;
    align-items: center;
+   flex-wrap: wrap;
 }
 
 .contactInfo{

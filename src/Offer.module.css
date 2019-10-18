@@ -9,6 +9,7 @@ height: 300px;
  width: 80%;
  border: 2px solid;
  display: flex;
+ flex-direction: column;
  justify-content: center;
  align-items: center;
 }

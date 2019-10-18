@@ -8,7 +8,7 @@ function Footer() {
       <div className={styles.container}>
         <LinksFooter/>
         <div className={styles.copyright}>
-          <span>© 2019 beingeorge, All Rights Reserved.</span>
+          <span>© 2019, All Rights Reserved.</span>
         </div>
       </div>
 
