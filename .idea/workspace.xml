@@ -2,8 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8f927b5-47c8-47d6-8659-b101be847299" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Project.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Skill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Skill.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contact.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contact.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Greeting.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Greeting.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Skills.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Skills.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +84,10 @@
       <workItem from="1570018658905" duration="8263000" />
       <workItem from="1570784217391" duration="42000" />
       <workItem from="1570980194620" duration="1004000" />
-      <workItem from="1571401421994" duration="1240000" />
+      <workItem from="1571401421994" duration="2858000" />
+      <workItem from="1571405304134" duration="493000" />
+      <workItem from="1571405880730" duration="216000" />
+      <workItem from="1571406142873" duration="4410000" />
     </task>
     <task id="LOCAL-00001" summary="create component Header">
       <created>1570005637571</created>
@@ -186,7 +201,28 @@
       <option name="project" value="LOCAL" />
       <updated>1571402409974</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fix styles(3)">
+      <created>1571402729859</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1571402729859</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fix styles(3)">
+      <created>1571402961555</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1571402961555</updated>
+    </task>
+    <task id="LOCAL-00019" summary="now imgs have % height and weight">
+      <created>1571404972637</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1571404972637</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +258,8 @@
     <MESSAGE value="add flexbox styles for Footer component" />
     <MESSAGE value="fix styles" />
     <MESSAGE value="fix styles(2)" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix styles(2)" />
+    <MESSAGE value="fix styles(3)" />
+    <MESSAGE value="now imgs have % height and weight" />
+    <option name="LAST_COMMIT_MESSAGE" value="now imgs have % height and weight" />
   </component>
 </project>

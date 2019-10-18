@@ -1,0 +1,21 @@
+
+
+
+.firstSkill{
+  background-color: #59b2ab;
+  height: 450px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.firstSkill img{
+  height: 200px;
+  width: 300px;
+}
+
+
+

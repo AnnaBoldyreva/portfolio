@@ -6,9 +6,9 @@ function Greeting() {
     <div className={styles.greeting}>
       <div className={styles.container}>
         <div className={styles.greetingText}>
-          <span>Hello0!</span>
+          <span>Hello</span>
           <span>I am Anna</span>
-          <span>Front-end developer(ReactJS) </span>
+          <span>Front-end developer </span>
         </div>
         <div className={styles.profilePhoto}>
           <img src="" alt=""/>

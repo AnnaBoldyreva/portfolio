@@ -23,13 +23,13 @@
 }
 
 input{
-   width: 120%;
+   width: 250%;
    height: 12%;
    margin-bottom: 5px;
 }
 
 textarea{
-   width: 120%;
+   width: 250%;
    height: 100px;
 }
 

@@ -1,0 +1,23 @@
+.project{
+ background-color: #59b2ab;
+ min-height: 500px;
+ width: 500px;
+ display: flex;
+ flex-direction: column;
+ justify-content: space-around;
+ align-items: center;
+ color: ghostwhite;
+}
+
+img {
+ height: 350%;
+ width: 100%;
+}
+
+button{
+ color: ghostwhite;
+ background-color: #2674b2;
+ border: none;
+ width: 100px;
+ height: 30px;
+}

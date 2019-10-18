@@ -9,14 +9,14 @@ import Contact from "./Contact";
 import Footer from "./Footer";
 import Projects from "./Projects";
 
-function App() {
+function App(props) {
   return (
     <div className="App">
       <div className='portfolio'>
         <Header/>
         <Greeting/>
-        <Skills/>
-        <Projects/>
+        <Skills skill={props.state.skill}/>
+        <Projects project={props.state.projects}/>
         <Offer/>
         <Contact/>
         <Footer/>

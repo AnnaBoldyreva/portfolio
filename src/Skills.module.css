@@ -16,41 +16,6 @@
 
 }
 
-.firstSkill{
-  background-color: #59b2ab;
-  height: 450px;
-  width: 350px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.secondSkill{
-  background-color: #59b2ab;
-  height: 450px;
-  width: 350px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-}
-
-.thirdSkill{
-  background-color: #59b2ab;
-  height: 450px;
-  width: 350px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-}
 
 
-.imgLogo{
-  height: 200px;
-  width: 300px;
-}
 

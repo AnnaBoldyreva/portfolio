@@ -15,38 +15,3 @@
  flex-wrap: wrap;
 }
 
-.firstProject{
- background-color: #59b2ab;
- min-height:  500px;
- width: 500px;
- display: flex;
- flex-direction: column;
- justify-content: space-around;
- align-items: center;
- color: ghostwhite;
-}
-
-.secondProject{
- background-color: #59b2ab;
- min-height:  500px;
- width: 500px;
- display: flex;
- flex-direction: column;
- justify-content: space-around;
- align-items: center;
- color: ghostwhite;
-}
-
-.imgProject{
-height: 350%;
-width:  100%;
-}
-
-.viewButton{
- color: ghostwhite;
- background-color: #2674b2;
- border: none;
- width: 100px;
- height: 30px;
-}
-
