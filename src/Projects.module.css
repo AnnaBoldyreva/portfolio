@@ -3,7 +3,7 @@
  background-color: #8eb284;
  display: flex;
  justify-content: center;
- flex-wrap: wrap;
+
 }
 
 .container{
@@ -17,7 +17,7 @@
 
 .firstProject{
  background-color: #59b2ab;
- height: 500px;
+ min-height:  500px;
  width: 500px;
  display: flex;
  flex-direction: column;
@@ -28,7 +28,7 @@
 
 .secondProject{
  background-color: #59b2ab;
- height: 500px;
+ min-height:  500px;
  width: 500px;
  display: flex;
  flex-direction: column;
@@ -38,8 +38,8 @@
 }
 
 .imgProject{
- height: 350px;
- width: 500px;
+height: 350%;
+width:  100%;
 }
 
 .viewButton{
