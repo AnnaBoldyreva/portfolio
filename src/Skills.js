@@ -7,7 +7,9 @@ function Skills(props) {
   return (
     <div className={styles.skills}>
       <div className={styles.container}>
+
           {skillElement}
+
 
       </div>
 
