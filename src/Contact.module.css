@@ -5,6 +5,28 @@
    justify-content: center;
 }
 
+.blockTitle{
+
+}
+
+.formArea{
+width: 100%;
+}
+
+.messageArea{
+min-height: 160px;
+   width: 100%;
+}
+
+
+.formWrapper{
+   display: flex;
+   flex-direction: column;
+   width: 500px;
+   align-items: center;
+
+}
+
 .container{
    width: 80%;
    border: 2px solid;
@@ -15,29 +37,9 @@
    flex-wrap: wrap;
 }
 
-.contactInfo{
-   display: flex;
-   flex-direction: column;
-   justify-content: center;
-   align-items: center;
-}
 
-input{
-   width: 250%;
-   height: 12%;
-   margin-bottom: 5px;
-}
-
-textarea{
-   width: 250%;
-   height: 100px;
-}
-
-span{
-   margin-bottom: 10px;
-}
-button {
-   width: 200px;
-   height: 30px;
-   margin: 10px;
+@media screen and (max-width: 638px)  {
+   .formWrapper{
+      width: 100%;
+   }
 }

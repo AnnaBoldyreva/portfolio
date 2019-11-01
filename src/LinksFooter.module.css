@@ -1,9 +1,23 @@
 .links {
- width: 400px;
+ width: 500px;
  display: flex;
  justify-content: space-between;
+ border: 1px solid;
 }
 
 .link {
  text-decoration: none;
+ width: 60px;
+ height: 60px;
+ background-color: #99a2b2;
 }
+
+@media screen and (max-width: 626px)  {
+ .links{
+ width: 100%;
+ }
+}
+
+
+
+

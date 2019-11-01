@@ -5,16 +5,18 @@ function Contact() {
   return (
     <div className={styles.contact}>
       <div className={styles.container}>
-        <div className={styles.contactInfo}>
-          <span>Contact</span>
-          <input  type="text" name="name" placeholder="Name"/>
-          <input  type="text" name="email" placeholder="Email"/>
-          <textarea  placeholder='Your message'>
+        <span className={styles.blockTitle}>Contact</span>
+        <form className={styles.formWrapper}>
+
+          <input className={styles.formArea}  type="text" name="name" placeholder="Name"/>
+          <input className={styles.formArea} type="text" name="email" placeholder="Email"/>
+          <textarea className={styles.messageArea} placeholder='Your message'>
           </textarea>
-          <button type='submit'>Send</button>
+          <button className={styles.btnSubmit} type='submit'>Send</button>
+        </form>
 
 
-        </div>
+
 
       </div>
 
