@@ -7,12 +7,12 @@
 
 .link {
  text-decoration: none;
- width: 60px;
+ width:  60px;
  height: 60px;
  background-color: #99a2b2;
 }
 
-@media screen and (max-width: 626px)  {
+@media screen and (max-width: 638px)  {
  .links{
  width: 100%;
  }
