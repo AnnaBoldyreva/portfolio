@@ -1,6 +1,6 @@
 .greeting {
     min-height:  100vh;
-    background-color: bisque;
+    background-color: #222628;
     display: flex;
     justify-content: center;
 }
@@ -19,6 +19,22 @@
     display: flex;
     flex-direction: column;
 }
+
+h1{
+    font-size: 30px;
+    font-family: 'Passion One', cursive;
+}
+
+.helloName{
+    font-size: 20px;
+    font-family: 'Montaga', serif;
+}
+
+.hello{
+    font-size: 20px;
+    font-family: 'Montaga', serif;
+}
+
 
 .profilePhoto {
     height: 400px;
