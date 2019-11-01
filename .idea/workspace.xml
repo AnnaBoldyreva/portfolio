@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e8f927b5-47c8-47d6-8659-b101be847299" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Contact.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contact.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Project.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Project.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Projects.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Projects.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header.module.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +76,7 @@
       <workItem from="1571405304134" duration="493000" />
       <workItem from="1571405880730" duration="216000" />
       <workItem from="1571406142873" duration="4607000" />
-      <workItem from="1572610284139" duration="5514000" />
+      <workItem from="1572610284139" duration="7887000" />
     </task>
     <task id="LOCAL-00001" summary="create component Header">
       <created>1570005637571</created>
@@ -241,7 +239,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572616936617</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="media for projects">
+      <created>1572617610506</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1572617610506</updated>
+    </task>
+    <task id="LOCAL-00025" summary="refactoring">
+      <created>1572618761770</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1572618761770</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -283,6 +295,8 @@
     <MESSAGE value="media for contact" />
     <MESSAGE value="media for footer" />
     <MESSAGE value="media for skills" />
-    <option name="LAST_COMMIT_MESSAGE" value="media for skills" />
+    <MESSAGE value="media for projects" />
+    <MESSAGE value="refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring" />
   </component>
 </project>

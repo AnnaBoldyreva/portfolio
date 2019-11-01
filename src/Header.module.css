@@ -1,9 +1,10 @@
 .header {
    display: flex;
    justify-content: center;
-
    height: 80px;
-   background-color: darkseagreen;
+   background-color: whitesmoke;
+   position: fixed;
+   width: 100%;
 }
 
 .container {
