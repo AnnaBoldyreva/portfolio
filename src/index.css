@@ -5,6 +5,12 @@ body {
     sans-serif;
   font-family: 'Lora', serif;
   color: ghostwhite;
+  font-weight: 400;
+  font-stretch: normal;
+  font-size: 14px;
+  line-height: 1.8;
+
+
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;

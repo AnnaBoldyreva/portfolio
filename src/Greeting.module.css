@@ -21,18 +21,24 @@
 }
 
 h1{
-    font-size: 30px;
+    font-size: 40px;
     font-family: 'Passion One', cursive;
 }
 
 .helloName{
-    font-size: 20px;
+    font-size: 25px;
     font-family: 'Montaga', serif;
+    font-weight: 700;
+    font-stretch: normal;
+    line-height: 1.2;
 }
 
 .hello{
-    font-size: 20px;
     font-family: 'Montaga', serif;
+    font-size: 25px;
+    font-weight: 700;
+    font-stretch: normal;
+    line-height: 1.2;
 }
 
 
@@ -42,3 +48,20 @@ h1{
     background-color: #a1b27e;
 
 }
+
+@media screen and (max-width: 803px) {
+    .greetingText {
+    align-items: center;
+        margin-top: 60px;
+    }
+    h1{
+        font-size: 25px;
+    }
+    .hello{
+        font-size: 20px;
+    }
+    .helloName{
+        font-size: 20px;
+    }
+}
+
