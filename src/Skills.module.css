@@ -23,6 +23,22 @@ div.blockTitle{
   justify-content: center
 }
 
+.headerTitle{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.headerTitle h2{
+  font-size: 40px;
+}
+
+.line{
+  height: 2px;
+  width: 55px;
+  background-color: #6b236b;
+}
+
 
 
 
