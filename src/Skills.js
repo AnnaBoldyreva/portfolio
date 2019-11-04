@@ -8,9 +8,8 @@ function Skills(props) {
     <div className={styles.skills}>
       <div className={styles.container}>
 
+          <div className={styles.blockTitle}><h1>My Skills</h1></div>
           {skillElement}
-
-
       </div>
 
     </div>

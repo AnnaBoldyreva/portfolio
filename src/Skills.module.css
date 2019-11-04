@@ -9,11 +9,18 @@
 
 .container {
   width: 80%;
-  border: 2px solid;
   display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
+}
+
+div.blockTitle{
+  min-height: 30px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center
 }
 
 

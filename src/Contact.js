@@ -7,7 +7,7 @@ function Contact() {
       <div className={styles.container}>
 
         <form className={styles.formWrapper}>
-          <span className={styles.blockTitle}>Contact</span>
+          <div className={styles.blockTitle}><h1>Contact</h1></div>
 
           <input className={styles.formArea}  type="text" name="name" placeholder="Name"/>
           <input className={styles.formArea} type="text" name="email" placeholder="Email"/>

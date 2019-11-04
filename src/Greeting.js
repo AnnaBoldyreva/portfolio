@@ -8,7 +8,7 @@ function Greeting() {
         <div className={styles.greetingText}>
           <span>Hello,</span>
           <span>I am Anna <span>Boldyreva</span></span>
-          <span><h1>Front-end developer </h1></span>
+          <span><h1>Frontend developer </h1></span>
         </div>
         <div className={styles.profilePhoto}>
           <div className={styles.image}>
