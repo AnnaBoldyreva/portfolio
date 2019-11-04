@@ -15,6 +15,7 @@
  flex-wrap: wrap;
 }
 
+
 div.blockTitle{
  min-height: 30px;
  width: 100%;
@@ -22,6 +23,23 @@ div.blockTitle{
  align-items: center;
  justify-content: center
 }
+
+.headerTitle{
+ display: flex;
+ align-items: center;
+ flex-direction: column;
+}
+
+.headerTitle h2{
+ font-size: 40px;
+}
+
+.line{
+ height: 2px;
+ width: 55px;
+ background-color: #6b236b;
+}
+
 
 @media screen and (max-width: 1252px) {
  .container {

@@ -7,7 +7,7 @@ let state = {
     projects: [
         {name:'Name of Project', description: 'Description', logo:'https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80', button: 'View'},
         {name:'Name of Project', description: 'Description', logo:'https://marketingweek.imgix.net/content/uploads/2017/05/12103909/Coding-body-image-.jpg?auto=compress,format&q=60&w=750&h=460', button: 'View'}
-    ]
+    ],
 };
 
 

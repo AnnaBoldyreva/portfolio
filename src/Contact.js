@@ -6,9 +6,16 @@ function Contact() {
     <div className={styles.contact}>
       <div className={styles.container}>
 
-        <form className={styles.formWrapper}>
-          <div className={styles.blockTitle}><h1>Contact</h1></div>
 
+          <div className={styles.blockTitle}>
+            <div className={styles.headerTitle}>
+              <h2 className={styles.headerTitle}>My Skills</h2>
+              <div className={styles.line}>
+              </div>
+            </div>
+          </div>
+          {/*<div className={styles.blockTitle}><h1>Contact</h1></div>*/}
+        <form className={styles.formWrapper}>
           <input className={styles.formArea}  type="text" name="name" placeholder="Name"/>
           <input className={styles.formArea} type="text" name="email" placeholder="Email"/>
           <textarea className={styles.messageArea} placeholder='Your message'>
