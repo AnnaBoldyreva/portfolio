@@ -26,6 +26,7 @@
 .firstSkill img{
   height: 80px;
   width: 80px;
+  transform: rotate(45deg);
 }
 
 
