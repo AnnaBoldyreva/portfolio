@@ -59,14 +59,13 @@ h1{
 .image{
     height: 400px;
     width: 300px;
-    background-color: #a1b27e;
+    /*background-color: #a1b27e;*/
 }
 
 .image img {
     height: 400px;
     width: 300px;
 }
-
 
 
 .profilePhoto:before{
@@ -81,8 +80,17 @@ h1{
 
 }
 
+@media screen and (max-width: 320px) {
+    .image img {
+        height: 400px;
+        width: 290px;
+    }
 
-
+    .profilePhoto:before{
+        height: 413px;
+        width: 272px;
+    }
+}
 
 
 @media screen and (max-width: 803px) {
